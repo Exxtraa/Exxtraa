@@ -101,9 +101,9 @@ Currently focused on **SaaS products, AI agents, and developer tooling**.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Exxtraa&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Exxtraa&layout=compact&theme=dark)
+https://github-readme-stats.vercel.app/api?username=Exxtraa&count_private=true
+
 
 ---
 
