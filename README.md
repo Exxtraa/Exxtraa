@@ -4,6 +4,8 @@
 🎓 BCA Student | Web + Mobile + AI Systems  
 📍 India  
 
+A vibe coder with full time coding vibes!
+
 I love building **real products** — from mobile apps and dashboards to AI-powered automation tools.  
 Currently focused on **SaaS products, AI agents, and developer tooling**.
 
