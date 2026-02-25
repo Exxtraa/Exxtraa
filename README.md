@@ -111,8 +111,8 @@ https://github-readme-stats.vercel.app/api?username=Exxtraa&count_private=true
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: [https://linkedin.com/in/YOUR_PROFILE ](https://www.linkedin.com/in/arpit-sharma8/) 
-- 🐦 X (Twitter): [https://x.com/YOUR_HANDLE ](https://x.com/Arpitsharma_0) 
+- 💼 LinkedIn: https://www.linkedin.com/in/arpit-sharma8/
+- 🐦 X (Twitter): https://x.com/Arpitsharma_0
 - 📧 Email: arpitsharma6545@gmail.com
 
 ---
